@@ -1,4 +1,4 @@
-# HR Blue Ocean -Bean There
+# Bean There
 
 ## Table of Contents
 - [Team Members](#team-members-&-roles)
